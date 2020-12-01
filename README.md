@@ -1,3 +1,4 @@
+#### 1、HashMap和HashTable的区别
 #### 获取Class类的三种方式
 - 使用Class.forName()静态方法
 - 使用类的class属性
